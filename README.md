@@ -1,6 +1,6 @@
 # React Tic Tac Toe - Functional
 
-This is a version of the react docs' tic tac toe game modified to use entirely functional components
+This is version 2 of the react docs' tic tac toe game modified to use entirely functional components
 The tutorial for it can be found here: https://reactjs.org/tutorial/tutorial.html
 
 This version has been broken up into separate files, organized in the components folder.
@@ -9,7 +9,7 @@ This version has been broken up into separate files, organized in the components
 
 https://02-tic-tac-toe-functional.vercel.app/
 
-## Come with me, to see a significantly nicer version of this:
+## Version 3:
 
 https://github.com/RobertJewell/03-tic-tac-toe-complete
 
@@ -21,9 +21,7 @@ No
 
 #### Is it functional?
 
-Yes
-
-... this time in more than one way
+Yes, this time in more than one way
 
 #### Is there anything to see here?
 
@@ -31,4 +29,4 @@ Only really in the game component and project structure, not much has changed in
 
 ## Tech Stack
 
-Still just react
+React
