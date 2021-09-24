@@ -9,7 +9,7 @@ This version has been broken up into separate files, organized in the components
 
 https://02-tic-tac-toe-functional.vercel.app/
 
-## Come with me, to see a slightly nicer version of this:
+## Come with me, to see a significantly nicer version of this:
 
 https://github.com/RobertJewell/03-tic-tac-toe-complete
 
