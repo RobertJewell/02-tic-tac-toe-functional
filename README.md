@@ -12,21 +12,3 @@ https://02-tic-tac-toe-functional.vercel.app/
 ## Version 3:
 
 https://github.com/RobertJewell/03-tic-tac-toe-complete
-
-## FAQ
-
-#### Is is pretty?
-
-No
-
-#### Is it functional?
-
-Yes, this time in more than one way
-
-#### Is there anything to see here?
-
-Only really in the game component and project structure, not much has changed in the other files.
-
-## Tech Stack
-
-React
